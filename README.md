@@ -7,6 +7,9 @@ As a company we decided to banish all adobe products - why? Because their pricin
 ## Adobe Photoshop
 - [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
 
+## Adobe Premiere
+- [Blender](https://www.blender.org/)
+
 ## Adobe XD
 
 - [Sketch App](https://www.sketch.com/)
