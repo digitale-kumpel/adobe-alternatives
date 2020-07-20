@@ -9,6 +9,8 @@ As a company we decided to banish all adobe products - why? Because their pricin
 
 ## Adobe Premiere
 - [Blender](https://www.blender.org/)
+- [Final Cut Pro](https://www.apple.com/final-cut-pro/)
+- [iMovie](https://www.apple.com/imovie/)
 
 ## Adobe XD
 
